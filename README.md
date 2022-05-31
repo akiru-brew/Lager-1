@@ -94,7 +94,10 @@ this suggests I should set the gas regulator to 27 PSI and leave in the garage f
 
 ![beer](beer.jpg)
 
-TBD
+
+Looks like a lager, tastes like a lager!
+It could be clearer, but i've had far worse commericially.
+Now I just need one final test to see how refreshing it is in the June sun...
 
 ## Lessons learnt
 * Rehydrate Irish moss 15 min before adding, it works much better that way
@@ -103,4 +106,8 @@ TBD
 * If I lose too much to the boil, extra water can be added before cooling and fermenting. Added water after fermentation will introduce O2, which is bad.
 * Can clean everything the day before so it just needs turning on in the morning - this shrinks a brew day for ~4 hours.
 * Lipohop and no lid stops bubbles
-* First attempt at a brew frdige wasn't very good, the bottom was cooling much more than the top, and trying to fix this broke the gas line. Time for a new fridge!
+* Whirlpool before transferring to fermenter and using tap rather than pump will leave more sediment in the kettle, leading to a clearer beer.
+* Can also add gelatine to the keg, leave a couple of days and waste the bottom pint to clear it further, although this violates the vegan principles.
+* Keep an eye on the keg rubber ring when removing the lid.
+* Remember to burp the keg once you start gassing to remove any oxygen.
+* First attempt at a brew Fridge wasn't very good, the bottom was cooling much more than the top, and trying to fix this broke the gas line. Time for a new fridge!
