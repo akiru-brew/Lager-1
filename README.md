@@ -56,12 +56,11 @@ The mashing stages are:
 Following the mash out there was a quick sparge with 1 litre of water (the constant sparging with the pump means I shouldn't need a large sparge at the end) and some lipohop was added.
 Then the wort was boiled for 90 minutes.
 
-Near the end of the boil I added the immersion cooler to sanitise it.
-After 72 hours the kettle was given a further 15 minute boil with the rest of the additions added before once again chilling to 25C, then aerating and transferring to a fermenter and adding the second Belgian yeast.
+Near the end of the boil I added the immersion cooler to sanitise it before chilling to 25C, then aerating and transferring to a fermenter.
 
 ## Fermentation
 
-Clarify form was pitched to help remove gluten haze.
+Clarify ferm was pitched to help remove gluten haze.
 
 Lager yeast was pitched at 20C then the fridge was used to maintain 12C during fermentation.
 
