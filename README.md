@@ -58,6 +58,7 @@ Then the wort was boiled for 90 minutes.
 
 Near the end of the boil I added the immersion cooler to sanitise it before chilling to 25C, then aerating and transferring to a fermenter.
 
+
 ## Fermentation
 
 Clarify ferm was pitched to help remove gluten haze.
@@ -110,3 +111,75 @@ Now I just need one final test to see how refreshing it is in the June sun...
 * Keep an eye on the keg rubber ring when removing the lid.
 * Remember to burp the keg once you start gassing to remove any oxygen.
 * First attempt at a brew Fridge wasn't very good, the bottom was cooling much more than the top, and trying to fix this broke the gas line. Time for a new fridge!
+
+# Second attempt
+
+Same recipe, different calculations, new fridge.
+
+## Ingredients
+
+For a 18 litre batch, as at [Malt Miller](https://www.themaltmiller.co.uk/rg/?id=268398)
+
+| Grain                          | Quantity |
+| ------------------------------ | -------- |
+| Bestmalz Pilsner               | 1250g    |
+| Crisp Lager Malt (Europils)    | 1250g    |
+| Weyermann Carapils             | 250g     |
+
+* Mash water: 25 litres
+* Sparge water: 0 litre
+
+| Additions                              | Quantity | Time         |
+| -------------------------------------- | -------- | ------------ |
+| Saaz Hops                              | 25g      | 60        |
+| Saaz hops                              | 10g      | 30           |
+| Irish Moss (rehydrated)                             | 5g       | 15 |
+| Clarity Ferm | 2ml         |  Fermentation |
+| Servomyces Yeast Nutrient || Fermentation |
+| Lallemand diamond lager Yeast |          |  Fermentation |
+
+
+## Estimates
+
+From [brewers friend](https://www.brewersfriend.com)
+
+| OG    | FG    | Calories     | Carbs         | ABV  | IBU  | SRM  |
+| ----- | ----- | ------------ | ------------- |---- | ---- | ---- |
+| 1.030 | 1.006 | 97 per 330ml |  9 per 330ml | 3.1%% | 21   | 2.7   |
+
+# Process
+
+Same as above with with the following changes:
+* More water.
+* 30 minute boil before adding first hops.
+* Hops added in hop spider
+* Servomyces Yeast Nutrient to enhance the yeast
+* Whirlpooled and decanted to fermemter via tap.
+
+The aim of these tweaks was to make more beer, a lighter lager, and cleared than before.
+
+## Actual figures
+
+TBD
+
+| Field       | Target         | Actual |
+| ----------- | ------------- | ---------- |
+| OG          | 1.030      |  |
+| FG          | 1.006      | |
+| ABV         | 3.1%    | %|
+
+## Graph
+
+![Fermentation Graph](graph2.png)
+
+## Kegging
+
+Fill 4 bottles and the rest is kegged.
+
+## Tasting notes
+
+![beer](beer2.jpg)
+
+## Lessons learnt
+* Boiling with the lid on reduces water loss but increases the risk of boiling over.
+* mashing with excess water gives the malt more space for greater efficiency.
