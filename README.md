@@ -194,3 +194,10 @@ The taste is slightly too complex though, I think less speciality grains would m
 * mashing with excess water gives the malt more space for greater efficiency.
 * if the inkbird temp sensor is at the front of the fridge away from the cooling element there will be a temperature disparity leading to icebergs.
 * True lagering requires a slow drop from diacetyl rest to cold crash, no more than 1C drop per day. any faster shocks the remaining yeast into releasing unwanted esters.
+
+
+## Label
+
+Another tweak to the design:
+
+![Label](label2.png)
