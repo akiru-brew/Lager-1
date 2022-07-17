@@ -160,26 +160,37 @@ The aim of these tweaks was to make more beer, a lighter lager, and cleared than
 
 ## Actual figures
 
-TBD
 
 | Field       | Target         | Actual |
 | ----------- | ------------- | ---------- |
-| OG          | 1.030      |  |
-| FG          | 1.006      | |
-| ABV         | 3.1%    | %|
+| OG          | 1.030      |  1.030 |
+| FG          | 1.006      | 1.004 |
+| ABV         | 3.1%    | 3.4% |
 
 ## Graph
 
 ![Fermentation Graph](graph2.png)
 
+
+## Eisbocking
+
+Although the inkbird held the temp during the cold crash at 1C, the tilt reported some parts of the beer reached -1C, as was evident by the iceberg in the barrel when it came to kegging.
+In total 800g of water was removed from the beer, meaning the actual final ABV is 3.6%.
+
 ## Kegging
 
 Fill 4 bottles and the rest is kegged.
 
+Following guidance on forced carbonation I put 20 PSI on the beer line at 10C for 24 hours, then rediuced to PSI on the gas line for pouring.
+
 ## Tasting notes
 
-![beer](beer2.jpg)
+At the correct strength the beer is rather nice, clear, and definitely a lager.
+
+The taste is slightly too complex though, I think less speciality grains would make it subtler.
 
 ## Lessons learnt
 * Boiling with the lid on reduces water loss but increases the risk of boiling over.
 * mashing with excess water gives the malt more space for greater efficiency.
+* if the inkbird temp sensor is at the front of the fridge away from the cooling element there will be a temperature disparity leading to icebergs.
+* True lagering requires a slow drop from diacetyl rest to cold crash, no more than 1C drop per day. any faster shocks the remaining yeast into releasing unwanted esters.
